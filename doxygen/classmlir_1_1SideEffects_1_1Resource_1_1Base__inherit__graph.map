@@ -1,0 +1,5 @@
+<map id="mlir::SideEffects::Resource::Base&lt; DerivedResource, BaseResource &gt;" name="mlir::SideEffects::Resource::Base&lt; DerivedResource, BaseResource &gt;">
+<area shape="rect" id="node3" href="$classmlir_1_1SideEffects_1_1Resource_1_1Base.html" title="mlir::SideEffects::\lResource::Base\&lt; DefaultResource \&gt;" alt="" coords="5,200,244,241"/>
+<area shape="rect" id="node2" href="$classmlir_1_1SideEffects_1_1Resource_1_1BaseResource.html" title="BaseResource" alt="" coords="71,5,179,32"/>
+<area shape="rect" id="node4" href="$structmlir_1_1SideEffects_1_1DefaultResource.html" title="A conservative default resource kind. " alt="" coords="61,291,188,332"/>
+</map>

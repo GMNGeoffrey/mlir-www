@@ -1,0 +1,6 @@
+<map id="mlir::Attribute" name="mlir::Attribute">
+<area shape="rect" id="node2" href="$classmlir_1_1ElementsAttr.html" title="A base attribute that represents a reference to a static shaped tensor or vector constant. " alt="" coords="25,80,151,107"/>
+<area shape="rect" id="node5" href="$classmlir_1_1LocationAttr.html" title="Location objects represent source locations information in MLIR. " alt="" coords="175,80,297,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1DenseElementsAttr.html" title="An attribute that represents a reference to a dense vector or tensor object. " alt="" coords="5,155,171,181"/>
+<area shape="rect" id="node4" href="$classmlir_1_1SplatElementsAttr.html" title="An attribute that represents a reference to a splat vector or tensor constant, meaning all of the ele..." alt="" coords="9,229,167,256"/>
+</map>

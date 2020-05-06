@@ -1,0 +1,11 @@
+<map id="include/mlir/IR/Dominance.h" name="include/mlir/IR/Dominance.h">
+<area shape="rect" id="node2" href="$BufferPlacement_8h.html" title="include/mlir/Transforms\l/BufferPlacement.h" alt="" coords="164,80,323,121"/>
+<area shape="rect" id="node5" href="$Fusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Fusion.cpp" alt="" coords="347,80,507,121"/>
+<area shape="rect" id="node6" href="$Dominance_8cpp.html" title="lib/IR/Dominance.cpp" alt="" coords="532,87,680,114"/>
+<area shape="rect" id="node7" href="$Verifier_8cpp.html" title="lib/IR/Verifier.cpp" alt="" coords="705,87,827,114"/>
+<area shape="rect" id="node8" href="$CSE_8cpp.html" title="lib/Transforms/CSE.cpp" alt="" coords="851,87,1014,114"/>
+<area shape="rect" id="node9" href="$MemRefDataFlowOpt_8cpp.html" title="lib/Transforms/MemRefData\lFlowOpt.cpp" alt="" coords="1038,80,1225,121"/>
+<area shape="rect" id="node10" href="$Transforms_2Utils_2Utils_8cpp.html" title="lib/Transforms/Utils\l/Utils.cpp" alt="" coords="1249,80,1385,121"/>
+<area shape="rect" id="node3" href="$TensorsToBuffers_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/TensorsToBuffers.cpp" alt="" coords="5,169,231,211"/>
+<area shape="rect" id="node4" href="$BufferPlacement_8cpp.html" title="lib/Transforms/BufferPlacement.cpp" alt="" coords="255,177,485,203"/>
+</map>

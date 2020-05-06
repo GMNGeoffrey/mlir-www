@@ -1,0 +1,26 @@
+<map id="mlir::MLIRContextImpl" name="mlir::MLIRContextImpl">
+<area shape="rect" id="node2" href="$classmlir_1_1UnknownLoc.html" title="Represents an unknown location. " alt="" coords="593,21,720,48"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="129,7,329,49"/>
+<area shape="rect" id="node4" href="$classBaseT.html" title="BaseT" alt="" coords="5,211,65,237"/>
+<area shape="rect" id="node9" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="131,73,326,114"/>
+<area shape="rect" id="node11" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="133,138,325,179"/>
+<area shape="rect" id="node18" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="163,203,294,245"/>
+<area shape="rect" id="node21" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="131,350,326,391"/>
+<area shape="rect" id="node27" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="130,269,327,325"/>
+<area shape="rect" id="node29" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="115,467,343,509"/>
+<area shape="rect" id="node5" href="$classmlir_1_1DiagnosticEngine.html" title="This class is the main interface for diagnostics. " alt="" coords="580,481,733,508"/>
+<area shape="rect" id="node6" href="$classmlir_1_1StorageUniquer.html" title="A utility class to get, or create instances of storage classes. " alt="" coords="586,541,727,568"/>
+<area shape="rect" id="node8" href="$classmlir_1_1NoneType.html" title="NoneType is a unit type, i.e. " alt="" coords="601,79,712,105"/>
+<area shape="rect" id="node10" href="$classmlir_1_1FloatType.html" title="mlir::FloatType" alt="" coords="602,157,711,184"/>
+<area shape="rect" id="node12" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; AffineMap,\l AffineMapKeyInfo \&gt;" alt="" coords="563,709,750,750"/>
+<area shape="rect" id="node13" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; ValueT,\l ValueInfoT \&gt;" alt="" coords="144,677,313,718"/>
+<area shape="rect" id="node15" href="$classllvm_1_1DenseSet.html" title="llvm::DenseSet\&lt; IntegerSet,\l IntegerSetKeyInfo \&gt;" alt="" coords="563,643,751,685"/>
+<area shape="rect" id="node17" href="$classmlir_1_1UnitAttr.html" title="Unit attributes are attributes that hold no specific value and are given meaning by their existence..." alt="" coords="609,212,705,239"/>
+<area shape="rect" id="node20" href="$classmlir_1_1IndexType.html" title="Index is a special integer&#45;like type with unknown platform&#45;dependent bit width. " alt="" coords="601,351,713,377"/>
+<area shape="rect" id="node28" href="$classmlir_1_1IntegerType.html" title="Integer types can have arbitrary bitwidth up to a large fixed limit. " alt="" coords="597,431,717,457"/>
+<area shape="rect" id="node23" href="$classllvm_1_1StringSet.html" title="llvm::StringSet\&lt; llvm\l::BumpPtrAllocator &amp;\&gt;" alt="" coords="580,957,733,998"/>
+<area shape="rect" id="node24" href="$classllvm_1_1StringSet.html" title="llvm::StringSet\&lt; AllocatorTy \&gt;" alt="" coords="129,964,328,991"/>
+<area shape="rect" id="node26" href="$classmlir_1_1BoolAttr.html" title="mlir::BoolAttr" alt="" coords="607,276,706,303"/>
+<area shape="rect" id="node30" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; mlir\l::TypeID, mlir::Dialect *\&gt;" alt="" coords="573,1074,741,1115"/>
+<area shape="rect" id="node31" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="130,1074,327,1115"/>
+</map>

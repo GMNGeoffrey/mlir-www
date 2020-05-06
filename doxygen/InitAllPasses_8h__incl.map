@@ -1,0 +1,31 @@
+<map id="include/mlir/InitAllPasses.h" name="include/mlir/InitAllPasses.h">
+<area shape="rect" id="node2" href="$ConvertAVX512ToLLVM_8h.html" title="mlir/Conversion/AVX512To\lLLVM/ConvertAVX512ToLLVM.h" alt="" coords="1242,80,1457,121"/>
+<area shape="rect" id="node4" href="$GPUToCUDAPass_8h.html" title="mlir/Conversion/GPUToCUDA\l/GPUToCUDAPass.h" alt="" coords="3040,80,3240,121"/>
+<area shape="rect" id="node9" href="$GPUToNVVMPass_8h.html" title="mlir/Conversion/GPUToNVVM\l/GPUToNVVMPass.h" alt="" coords="1481,80,1681,121"/>
+<area shape="rect" id="node10" href="$GPUToROCDLPass_8h.html" title="mlir/Conversion/GPUToROCDL\l/GPUToROCDLPass.h" alt="" coords="1705,80,1913,121"/>
+<area shape="rect" id="node11" href="$ConvertGPUToSPIRVPass_8h.html" title="mlir/Conversion/GPUToSPIRV\l/ConvertGPUToSPIRVPass.h" alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node12" href="$ConvertGPUToVulkanPass_8h.html" title="mlir/Conversion/GPUToVulkan\l/ConvertGPUToVulkanPass.h" alt="" coords="233,80,434,121"/>
+<area shape="rect" id="node13" href="$LinalgToLLVM_8h.html" title="mlir/Conversion/LinalgTo\lLLVM/LinalgToLLVM.h" alt="" coords="3467,80,3634,121"/>
+<area shape="rect" id="node16" href="$LinalgToSPIRVPass_8h.html" title="mlir/Conversion/LinalgTo\lSPIRV/LinalgToSPIRVPass.h" alt="" coords="4450,80,4649,121"/>
+<area shape="rect" id="node18" href="$ConvertLoopToStandard_8h.html" title="mlir/Conversion/LoopToStandard\l/ConvertLoopToStandard.h" alt="" coords="2635,80,2847,121"/>
+<area shape="rect" id="node19" href="$LoopsToGPUPass_8h.html" title="mlir/Conversion/LoopsToGPU\l/LoopsToGPUPass.h" alt="" coords="2225,80,2421,121"/>
+<area shape="rect" id="node20" href="$ConvertStandardToLLVMPass_8h.html" title="mlir/Conversion/Standard\lToLLVM/ConvertStandardToLLVMPass.h" alt="" coords="1938,80,2201,121"/>
+<area shape="rect" id="node21" href="$ConvertStandardToSPIRVPass_8h.html" title="mlir/Conversion/Standard\lToSPIRV/ConvertStandardToSPIRVPass.h" alt="" coords="4673,80,4951,121"/>
+<area shape="rect" id="node22" href="$ConvertVectorToLLVM_8h.html" title="mlir/Conversion/VectorTo\lLLVM/ConvertVectorToLLVM.h" alt="" coords="3166,169,3370,211"/>
+<area shape="rect" id="node23" href="$Dialect_2Affine_2Passes_8h.html" title="mlir/Dialect/Affine\l/Passes.h" alt="" coords="3658,80,3785,121"/>
+<area shape="rect" id="node25" href="$Dialect_2GPU_2Passes_8h.html" title="mlir/Dialect/GPU/Passes.h" alt="" coords="458,87,638,114"/>
+<area shape="rect" id="node26" href="$LegalizeForExport_8h.html" title="mlir/Dialect/LLVMIR\l/Transforms/LegalizeForExport.h" alt="" coords="662,80,874,121"/>
+<area shape="rect" id="node27" href="$Dialect_2Linalg_2Passes_8h.html" title="mlir/Dialect/Linalg\l/Passes.h" alt="" coords="3265,80,3391,121"/>
+<area shape="rect" id="node29" href="$Dialect_2LoopOps_2Passes_8h.html" title="mlir/Dialect/LoopOps\l/Passes.h" alt="" coords="2872,80,3016,121"/>
+<area shape="rect" id="node30" href="$Dialect_2Quant_2Passes_8h.html" title="mlir/Dialect/Quant\l/Passes.h" alt="" coords="898,80,1025,121"/>
+<area shape="rect" id="node31" href="$Dialect_2SPIRV_2Passes_8h.html" title="mlir/Dialect/SPIRV\l/Passes.h" alt="" coords="4975,80,5108,121"/>
+<area shape="rect" id="node32" href="$Dialect_2StandardOps_2Transforms_2Passes_8h.html" title="mlir/Dialect/StandardOps\l/Transforms/Passes.h" alt="" coords="1049,80,1217,121"/>
+<area shape="rect" id="node33" href="$LocationSnapshot_8h.html" title="mlir/Transforms/Location\lSnapshot.h" alt="" coords="2445,80,2611,121"/>
+<area shape="rect" id="node35" href="$Transforms_2Passes_8h.html" title="mlir/Transforms/Passes.h" alt="" coords="3809,87,3981,114"/>
+<area shape="rect" id="node36" href="$ViewOpGraph_8h.html" title="mlir/Transforms/ViewOpGraph.h" alt="" coords="4005,87,4214,114"/>
+<area shape="rect" id="node39" href="$ViewRegionGraph_8h.html" title="mlir/Transforms/ViewRegion\lGraph.h" alt="" coords="4239,80,4425,121"/>
+<area shape="rect" id="node5" href="$LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="3057,333,3199,360"/>
+<area shape="rect" id="node14" href="$ConvertStandardToLLVM_8h.html" title="mlir/Conversion/Standard\lToLLVM/ConvertStandardToLLVM.h" alt="" coords="3394,169,3627,211"/>
+<area shape="rect" id="node15" href="$DialectConversion_8h.html" title="mlir/Transforms/DialectConversion.h" alt="" coords="3280,259,3515,285"/>
+<area shape="rect" id="node17" href="$Pass_2Pass_8h.html" title="mlir/Pass/Pass.h" alt="" coords="4751,177,4873,203"/>
+</map>

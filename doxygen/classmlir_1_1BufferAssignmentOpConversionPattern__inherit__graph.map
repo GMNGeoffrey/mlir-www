@@ -1,0 +1,10 @@
+<map id="mlir::BufferAssignmentOpConversionPattern&lt; SourceOp &gt;" name="mlir::BufferAssignmentOpConversionPattern&lt; SourceOp &gt;">
+<area shape="rect" id="node6" href="$classmlir_1_1BufferAssignmentOpConversionPattern.html" title="mlir::BufferAssignmentOp\lConversionPattern\&lt; FuncOp \&gt;" alt="" coords="1204,7,1404,48"/>
+<area shape="rect" id="node8" href="$classmlir_1_1BufferAssignmentOpConversionPattern.html" title="mlir::BufferAssignmentOp\lConversionPattern\&lt; ReturnOpSourceTy \&gt;" alt="" coords="1171,76,1437,117"/>
+<area shape="rect" id="node2" href="$structmlir_1_1OpConversionPattern.html" title="OpConversionPattern is a wrapper around ConversionPattern that allows for matching and rewriting agai..." alt="" coords="544,44,720,85"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns that require type changes. " alt="" coords="336,51,495,78"/>
+<area shape="rect" id="node4" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="148,51,287,78"/>
+<area shape="rect" id="node5" href="$classmlir_1_1Pattern.html" title="Instances of Pattern can be matched against SSA IR. " alt="" coords="5,51,99,78"/>
+<area shape="rect" id="node7" href="$classmlir_1_1FunctionAndBlockSignatureConverter.html" title="This conversion adds an extra argument for each function result which makes the converted function a ..." alt="" coords="1493,5,1705,47"/>
+<area shape="rect" id="node9" href="$classmlir_1_1NonVoidToVoidReturnOpConverter.html" title="This pattern converter transforms a non&#45;void ReturnOpSourceTy into a void return of type ReturnOpTarg..." alt="" coords="1487,71,1711,127"/>
+</map>
